@@ -20,7 +20,7 @@ Installing dependencies
 
 ```bash
 pip install numpy
-import pandas
+pip install pandas
 pip install pystan
 pip install ipython
 pip install datadog
